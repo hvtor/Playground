@@ -1,3 +1,6 @@
+
+Setup: Ensure you are using Xcode 7.0+ on Mac OS X 10.11+.
+
 <h2>Reverse String</h2>
 
 <h3> Write a method that takes a string reverses the order of the words in that string and returns the result.
